@@ -6,15 +6,29 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-19T04:46:43.861Z</updated>
+  <updated>2017-12-19T07:05:17.889Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>charmi</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2017/12/19/test/"/>
+    <id>http://yoursite.com/2017/12/19/test/</id>
+    <published>2017-12-19T06:34:38.000Z</published>
+    <updated>2017-12-19T07:05:17.889Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>git 保存密码的好方法</title>
